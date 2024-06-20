@@ -9,7 +9,7 @@ This repository provides the data and code for the paper [**Moderating Illicit O
 ## UGCG-Guard
 ![framework](figures/framework.png)
 
-Our framework can be integrated with current popular large vision-language models, such as [InstructBLIP](https://huggingface.co/docs/transformers/en/model_doc/instructblip), [mPLUG](https://github.com/X-PLUG/mPLUG), [GPT-4V](https://openai.com/research/gpt-4v-system-card), [Gemini](https://gemini.google.com), etc. Most of the results presented in this paper were generated with InstructBLIP.
+Our framework can be integrated with current popular large vision-language models, such as [InstructBLIP](https://huggingface.co/docs/transformers/en/model_doc/instructblip), [mPLUG](https://github.com/X-PLUG/mPLUG), [GPT-4](https://openai.com/index/gpt-4/), [Gemini](https://gemini.google.com), etc. Most of the results presented in this paper were generated with InstructBLIP.
 
 ### UGCG-CoT
 <p align="center">
