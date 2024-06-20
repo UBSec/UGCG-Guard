@@ -4,7 +4,7 @@ This repository provides the data and code for the paper [**Moderating Illicit O
 
 ## Data
 <!-- Please fill out the [consent form](ugcg_dataset_consent_form.docx) and send emails to access our data. -->
-***The data is under preparing...***
+***The data is under preparation...***
 
 ## UGCG-Guard
 ![framework](figures/framework.png)
