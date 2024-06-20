@@ -40,14 +40,13 @@ Q2C: Are there characters or avatars indulging in any sexual activities?
 Q3A: Are there any knives, guns, or deadly weapons presented in this image?
 Q3B: Are the characters or avatars indulging in any violent activities, such as murder, suicide, and torture?
 Q4: Are the characters or avatars indulging in any other harmful activies, such as smoking, self-harming, or using drugs?
-
 AI:''']
 
 # generate kwargs (the same in transformers) can be passed in the do_generate()
 generate_kwargs = {
     'do_sample': False,
     'top_k': 5,
-    'max_length': 256
+    'max_length': 1000
 }
 
 
