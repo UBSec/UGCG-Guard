@@ -80,9 +80,8 @@ If you find this helpful, please cite our work:
 @article{Guo2024ModeratingIO,
   title={Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models},
   author={Keyan Guo and Ayush Utkarsh and Wenbo Ding and Isabelle Ondracek and Ziming Zhao and Guo Freeman and Nishant Vishwamitra and Hongxin Hu},
-  journal={ArXiv},
-  year={2024},
-  volume={abs/2403.18957},
-  url={https://api.semanticscholar.org/CorpusID:268732614}
+  booktitle = {{USENIX Security Symposium (USENIX Security)}},
+  publisher = {USENIX},
+  year = {2024}
 }
 ```
