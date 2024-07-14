@@ -78,7 +78,7 @@ More results can be found in our paper.
 If you find this helpful, please cite our work:
 ```
 @article{Guo2024ModeratingIO,
-  title={Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models},
+  title={{Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models}},
   author={Keyan Guo and Ayush Utkarsh and Wenbo Ding and Isabelle Ondracek and Ziming Zhao and Guo Freeman and Nishant Vishwamitra and Hongxin Hu},
   booktitle = {{USENIX Security Symposium (USENIX Security)}},
   publisher = {USENIX},
