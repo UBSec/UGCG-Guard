@@ -2,14 +2,18 @@
 
 This repository provides the data and code for the paper [**Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models**](https://arxiv.org/abs/2403.18957), accepted at the 33rd USENIX Security Symposium (USENIX) 2024.
 
-## Data
-<!-- Please fill out the [consent form](ugcg_dataset_consent_form.docx) and send emails to access our data. -->
-***The data is under preparation...***
+## UGCG Image Dataset
+Please fill out the [consent form](ugcg_dataset_consent_form.docx) and send emails to access our data. In the meantime, please submit an application through [Hugging Face](https://huggingface.co/datasets/keyan96/unsafe-ugcg-images), we will grant you access to our data after reviewing your request.
+<p align="center">
+  <img src="figures/huggingface_dataset.png" alt="drawing" style="width:600px;"/>
+</p>
 
 ## UGCG-Guard
 ![framework](figures/framework.png)
 
 Our framework can be integrated with current popular large vision-language models, such as [InstructBLIP](https://huggingface.co/docs/transformers/en/model_doc/instructblip), [mPLUG](https://github.com/X-PLUG/mPLUG), [GPT-4](https://openai.com/index/gpt-4/), [Gemini](https://gemini.google.com), etc. Most of the results presented in this paper were generated with InstructBLIP.
+
+We have provided some sample code for your reference, please check the ``sample_code`` directory for free.
 
 ### UGCG-CoT
 <p align="center">
@@ -35,8 +39,6 @@ Now, tell me your label directly.
 
 ## Baselines
 ![example](figures/example.png)
-
-***More code is on the way...***
 
 The baseline models we refer to:
 
