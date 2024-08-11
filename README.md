@@ -13,11 +13,11 @@ Please fill out the [consent form](ugcg_dataset_consent_form.docx) and send emai
 
 Our framework can be integrated with current popular large vision-language models, such as [InstructBLIP](https://huggingface.co/docs/transformers/en/model_doc/instructblip), [mPLUG](https://github.com/X-PLUG/mPLUG), [GPT-4](https://openai.com/index/gpt-4/), [Gemini](https://gemini.google.com), etc. Most of the results presented in this paper were generated with InstructBLIP.
 
-We have provided some sample code for your reference, please check the ``sample_code`` directory for free.
+We have provided some sample codes for your reference. Please check the ``sample_code`` directory for free.
 
 ### UGCG-CoT
 <p align="center">
-  <img src="figures/ugcg-cot.png" alt="drawing" style="width:500px;"/>
+  <img src="figures/ugcg-cot.png" alt="drawing" style="width:700px;"/>
 </p>
 The prompt of our UGCG-CoT, replace `{input_image}` with your testing sample. Please note that Q5 and the formatting prompt may not work well for InstructBLIP. You can remove the prompts and manually get the final decision.
 
