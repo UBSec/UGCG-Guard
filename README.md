@@ -79,11 +79,16 @@ More results can be found in our paper.
 ## Cite
 If you find this helpful, please cite our work:
 ```
-@article{Guo2024ModeratingIO,
-  title={{Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models}},
-  author={Keyan Guo and Ayush Utkarsh and Wenbo Ding and Isabelle Ondracek and Ziming Zhao and Guo Freeman and Nishant Vishwamitra and Hongxin Hu},
-  booktitle = {{USENIX Security Symposium (USENIX Security)}},
-  publisher = {USENIX},
-  year = {2024}
+@inproceedings {299571,
+author = {Keyan Guo and Ayush Utkarsh and Wenbo Ding and Isabelle Ondracek and Ziming Zhao and Guo Freeman and Nishant Vishwamitra and Hongxin Hu},
+title = {{Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models}},
+booktitle = {33rd USENIX Security Symposium (USENIX Security 24)},
+year = {2024},
+isbn = {978-1-939133-44-1},
+address = {Philadelphia, PA},
+pages = {5787--5804},
+url = {https://www.usenix.org/conference/usenixsecurity24/presentation/guo-keyan},
+publisher = {USENIX Association},
+month = aug
 }
 ```
