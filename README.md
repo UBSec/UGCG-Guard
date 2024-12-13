@@ -3,7 +3,8 @@
 This repository provides the data and code for the paper [**Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models**](https://arxiv.org/abs/2403.18957), accepted at the 33rd USENIX Security Symposium (USENIX Security) 2024.
 
 ## UGCG Image Dataset
-Please fill out the [consent form](ugcg_dataset_consent_form.docx) and send emails to access our data. In the meantime, please submit an application through [Hugging Face](https://huggingface.co/datasets/keyan96/unsafe-ugcg-images), we will grant you access to our data after reviewing your request.
+>[!CAUTION]
+>Please fill out the [consent form](ugcg_dataset_consent_form.docx) and send emails to access our data. In the meantime, please submit an application through [Hugging Face](https://huggingface.co/datasets/keyan96/unsafe-ugcg-images), we will grant you access to our data after reviewing your request.
 <p align="center">
   <img src="figures/huggingface_dataset.png" alt="drawing" style="width:600px;"/>
 </p>
