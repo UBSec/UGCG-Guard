@@ -4,14 +4,14 @@ This repository provides the data and code for the paper [**Moderating Illicit O
 
 [![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2403.18957) [![license](https://img.shields.io/github/license/NISPlab/JBSHield)](https://opensource.org/licenses/MIT)
 
-![available](./figs/usenixbadges-available.png)![functional](./figs/usenixbadges-functional.png)![reproduced](./figs/usenixbadges-reproduced.png)
+![available](./figures/usenixbadges-available.png)![functional](./figures/usenixbadges-functional.png)![reproduced](./figures/usenixbadges-reproduced.png)
 
 
 ## UGCG Image Dataset
 >[!CAUTION]
 >Please fill out the [consent form](ugcg_dataset_consent_form.docx) and send emails to access our data. In the meantime, please submit an application through [Hugging Face](https://huggingface.co/datasets/keyan96/unsafe-ugcg-images), we will grant you access to our data after reviewing your request.
 <p align="center">
-  <img src="figures/huggingface_dataset.png" alt="drawing" style="width:600px;"/>
+  <img src="./figures/huggingface_dataset.png" alt="drawing" style="width:600px;"/>
 </p>
 
 ## UGCG-Guard
