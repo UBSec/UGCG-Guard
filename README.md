@@ -2,7 +2,7 @@
 
 This repository provides the data and code for the paper [**Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models**](https://www.usenix.org/conference/usenixsecurity24/presentation/guo-keyan), which is included in the Proceedings of the 33rd USENIX Security Symposium.
 
-[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2403.18957) [![license](https://img.shields.io/github/license/NISPlab/JBSHield)](https://opensource.org/licenses/MIT)
+[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2403.18957) [![license](https://img.shields.io/github/license/UBSec/UGCG-Guard)](https://opensource.org/license/apache-2-0)
 
 ![available](./figures/usenixbadges-available.png)![functional](./figures/usenixbadges-functional.png)![reproduced](./figures/usenixbadges-reproduced.png)
 
