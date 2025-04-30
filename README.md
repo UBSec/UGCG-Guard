@@ -1,6 +1,11 @@
 # Illicit Online Image Promotion for UGCGs Moderation
 
-This repository provides the data and code for the paper [**Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models**](https://arxiv.org/abs/2403.18957), accepted at the 33rd USENIX Security Symposium (USENIX Security) 2024.
+This repository provides the data and code for the paper [**Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models**](https://www.usenix.org/conference/usenixsecurity24/presentation/guo-keyan), which is included in the Proceedings of the 33rd USENIX Security Symposium.
+
+[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2403.18957) [![license](https://img.shields.io/github/license/NISPlab/JBSHield)](https://opensource.org/licenses/MIT)
+
+![available](./figs/usenixbadges-available.png)![functional](./figs/usenixbadges-functional.png)![reproduced](./figs/usenixbadges-reproduced.png)
+
 
 ## UGCG Image Dataset
 >[!CAUTION]
