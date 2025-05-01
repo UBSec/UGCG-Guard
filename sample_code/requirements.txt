@@ -87,7 +87,7 @@ sentence-transformers==3.0.0
 sentencepiece==0.2.0
 shellingham==1.5.4
 shortuuid==1.0.13
-starlette==0.37.2
+starlette==0.40.0
 svgwrite==1.4.3
 sympy==1.12
 threadpoolctl==3.5.0
