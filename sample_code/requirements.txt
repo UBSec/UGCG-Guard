@@ -61,7 +61,7 @@ openpyxl==3.1.2
 orjson==3.10.1
 packaging==23.2
 peft==0.10.0
-pillow==10.2.0
+pillow==10.3.0
 prompt-toolkit==3.0.43
 protobuf==5.26.1
 psutil==5.9.8
